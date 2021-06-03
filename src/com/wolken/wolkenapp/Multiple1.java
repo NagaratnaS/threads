@@ -10,6 +10,7 @@ public class Multiple1 extends Thread{
 		for(int i = 1 ; i <= 10 ; i++) {
 			System.out.println(num +" * " + i +" = " +(num*i));
 		}
+		// This is a comment
 		System.out.println("Ending of first thread");
 	}
 

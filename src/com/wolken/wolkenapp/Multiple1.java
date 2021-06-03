@@ -11,6 +11,7 @@ public class Multiple1 extends Thread{
 			System.out.println(num +" * " + i +" = " +(num*i));
 		}
 		// This is a comment
+		//New branch comment
 		System.out.println("Ending of first thread");
 	}
 
